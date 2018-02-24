@@ -1,0 +1,12 @@
+target
+/classes
+.idea
+.gradle
+build
+out
+log/
+*.iml
+*.ipr
+*.iws
+.sass-cache/
+.DS_Store
